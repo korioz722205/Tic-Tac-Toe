@@ -1,5 +1,5 @@
-player_1_simbol = 1
-player_2_simbol = 2
+player_1_simbol = "X"
+player_2_simbol = "O"
 
 game_state = [
   [0, 0, 0],
